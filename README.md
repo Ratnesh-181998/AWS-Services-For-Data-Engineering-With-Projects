@@ -76,7 +76,7 @@ Professional badges for the core AWS services mastered in this course:
 
 ---
 
-## 📚 Course Content Breakdown
+## 📚 Content Breakdown ( Live Content's Coming Soon )
 
 ### 🔹 Module 1: AWS Core Services & Infrastructure
 **AWS Services Covered:** ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazon-aws) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda) ![CodeBuild](https://img.shields.io/badge/CodeBuild-232F3E?style=flat-square&logo=amazon-aws) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat-square&logo=amazon-aws)
