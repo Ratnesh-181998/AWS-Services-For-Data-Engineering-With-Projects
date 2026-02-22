@@ -63,6 +63,19 @@ Professional badges for the core AWS services mastered in this course:
 
 ---
 
+## 🏷️ Topics & Keywords
+
+### ☁️ Core AWS Services
+`aws-iam`, `amazon-s3`, `aws-lambda`, `aws-codebuild`, `aws-sns`, `aws-sqs`, `amazon-ec2`, `aws-eventbridge`, `amazon-rds`, `aws-secrets-manager`, `aws-glue`, `amazon-athena`, `amazon-redshift`, `amazon-emr`, `amazon-kinesis`, `amazon-dynamodb`, `aws-step-functions`, `aws-mwaa`
+
+### 🛠️ Data Engineering & Big Data
+`data-engineering`, `pyspark`, `apache-spark`, `apache-airflow`, `apache-kafka`, `apache-flink`, `apache-hadoop`, `apache-hive`, `snowflake`, `google-bigquery`, `databricks`, `delta-lake`, `apache-iceberg`, `apache-hudi`
+
+### 🚀 Automation & DevOps
+`cicd`, `github-actions`, `serverless`, `python`, `etl-pipelines`, `data-warehousing`, `real-time-streaming`, `cdc`, `data-analytics`
+
+---
+
 ## 📚 Course Content Breakdown
 
 ### 🔹 Module 1: AWS Core Services & Infrastructure
