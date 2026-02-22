@@ -15,12 +15,18 @@
 
 Welcome to the **Complete Data Engineering With AWS** repository! This course is designed to take you from basic fundamentals to advanced architectural mastery of data engineering using AWS and modern Big Data tools.
 
+<img width="912" height="559" alt="image" src="https://github.com/user-attachments/assets/94cce066-d8aa-4a39-b7d9-df257af138bf" />
+
+
+
 ---
 
-## 🌟 Course Overview
+## 🌟Overview
 
 This comprehensive program covers the end-to-end data engineering lifecycle. From mastering SQL and Big Data fundamentals to deploying industrial-scale pipelines on AWS, this course provides the hands-on experience required to become a top-tier Data Professional.
 
+
+<img width="1032" height="554" alt="image" src="https://github.com/user-attachments/assets/60b623d3-14a1-4590-81b4-e0981387c9db" />
 
 
 ---
