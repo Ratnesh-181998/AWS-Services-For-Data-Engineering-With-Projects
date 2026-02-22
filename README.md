@@ -13,14 +13,6 @@
 
 # AWS Services For Data Engineering With Projects
 
-
-# 🚀 Complete Data Engineering With AWS - Basic To Advance
-
-[![Course Status](https://img.shields.io/badge/Status-Self--Paced-brightgreen?style=for-the-badge&logo=airbrake)](https://growdataskills.com/aws-data-engineering-live)
-[![Duration](https://img.shields.io/badge/Duration-160%20Hours-blue?style=for-the-badge&logo=clockify)](https://growdataskills.com/aws-data-engineering-live)
-[![Projects](https://img.shields.io/badge/Projects-15%2B-orange?style=for-the-badge&logo=github)](https://growdataskills.com/aws-data-engineering-live)
-[![Instructor](https://img.shields.io/badge/Instructor-Shashank%20Mishra-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shashank219/)
-
 Welcome to the **Complete Data Engineering With AWS** repository! This course is designed to take you from basic fundamentals to advanced architectural mastery of data engineering using AWS and modern Big Data tools.
 
 ---
@@ -29,13 +21,7 @@ Welcome to the **Complete Data Engineering With AWS** repository! This course is
 
 This comprehensive program covers the end-to-end data engineering lifecycle. From mastering SQL and Big Data fundamentals to deploying industrial-scale pipelines on AWS, this course provides the hands-on experience required to become a top-tier Data Professional.
 
-### 💎 Key Highlights
-- **160+ Hours** of intensive learning content.
-- **40+ Dedicated Sessions** covering core to advanced concepts.
-- **15+ Industrial Projects** to build a robust portfolio.
-- **Lifetime Validity** (1 Year access to live support/updates).
-- **Placement Assistance**: Resume building, LinkedIn optimization, and mock interviews.
-- **Community Support**: Private Discord community for doubt resolution.
+
 
 ---
 
