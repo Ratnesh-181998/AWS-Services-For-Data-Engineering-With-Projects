@@ -47,6 +47,22 @@ Explore the modern data stack covered in this course:
 
 ---
 
+## ☁️ AWS Cloud Ecosystem
+
+Professional badges for the core AWS services mastered in this course:
+
+| Service Category | AWS Service Badges |
+| :--- | :--- |
+| **Compute** | ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white) ![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white) |
+| **Storage & DB** | ![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) ![DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) ![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white) |
+| **Analytics** | ![Athena](https://img.shields.io/badge/AWS_Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Redshift](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white) ![EMR](https://img.shields.io/badge/AWS_EMR-BC1339?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **ETL & Integration**| ![Glue](https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kinesis](https://img.shields.io/badge/AWS_Kinesis-FF9900?style=for-the-badge&logo=amazon-kinesis&logoColor=white) ![MWAA](https://img.shields.io/badge/AWS_MWAA-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) |
+| **Messaging** | ![SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazon-sqs&logoColor=white) ![SNS](https://img.shields.io/badge/AWS_SNS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **Security & DevOps**| ![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazon-iam&logoColor=white) ![Secrets_Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CodeBuild](https://img.shields.io/badge/CodeBuild-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **Workflow** | ![Step_Functions](https://img.shields.io/badge/Step_Functions-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+
+---
+
 ## 📚 Course Content Breakdown
 
 ### 🔹 Module 1: AWS Core Services & Infrastructure
