@@ -85,6 +85,9 @@ Explore the modern data stack covered in this course:
     *   Publishing S3 notifications into SNS topics.
     *   Sending custom alerts from Lambda using **Boto3**.
 
+<img width="1095" height="1312" alt="image" src="https://github.com/user-attachments/assets/ffc178de-b89b-41d5-a648-907d33886bbf" />
+<img width="1081" height="620" alt="image" src="https://github.com/user-attachments/assets/8ee452e1-2f5f-488f-9d4a-7a45686eefb3" />
+
 ---
 
 ### 🔹 Module 2: AWS Compute, Messaging & Data Integration
@@ -116,6 +119,9 @@ Explore the modern data stack covered in this course:
 *   **Glue ETL Ingestion**:
     *   **Incremental Loads**: Managing state with **Job Bookmarks**.
     *   **Visual ETL**: Low-code data ingestion from S3 to MySQL.
+
+<img width="1123" height="824" alt="image" src="https://github.com/user-attachments/assets/89609119-1ce7-4c5b-aa81-f9a94ab8a6d6" />
+<img width="1068" height="748" alt="image" src="https://github.com/user-attachments/assets/c8b34582-4d86-448a-8f40-5dc72ab1455b" />
 
 ---
 
@@ -154,6 +160,10 @@ Explore the modern data stack covered in this course:
 *   **🏆 Industrial Project - 1: Gadget Sales Projection**
     *   Stack: DynamoDB Streams -> EventBridge Pipe -> Kinesis -> Firehose -> S3 -> Athena.
 
+<img width="1152" height="890" alt="image" src="https://github.com/user-attachments/assets/697628bb-6dca-4b01-a7de-f671c71d2d27" />
+<img width="1138" height="1180" alt="image" src="https://github.com/user-attachments/assets/2d8bc8d9-d573-4221-9615-bc1ec8da5b0c" />
+
+
 ---
 
 ### 🔹 Module 4: Serverless Workflow Orchestration
@@ -164,6 +174,9 @@ Explore the modern data stack covered in this course:
 *   **Event Coordination**: Multi-Lambda orchestration.
 *   **🏆 Industrial Project - 2: Event-Driven Sales Data Analysis**
     *   *Tech Stack*: S3 -> EventBridge -> Step Function -> Lambda -> SQS -> DynamoDB.
+
+<img width="1151" height="411" alt="image" src="https://github.com/user-attachments/assets/536a0f67-0591-4c2d-a75b-e8dafc103f01" />
+
 
 ---
 
@@ -184,6 +197,9 @@ Explore the modern data stack covered in this course:
 #### 🚀 Project - 6: Real-Time Food Delivery Analysis (Full CICD)
 *   **Goal**: High-velocity data processing with real-time visualization.
 *   **Tech Stack**: Kinesis Stream, AWS EMR, MWAA (Airflow), Redshift, **QuickSight**, CodeBuild.
+
+<img width="1146" height="706" alt="image" src="https://github.com/user-attachments/assets/7ace0cfd-fa95-4c0a-94a9-88a98133199e" />
+
 
 ---
 
